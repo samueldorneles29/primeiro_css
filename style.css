@@ -1,3 +1,12 @@
 .logotipo{
-    height: 300px;
+    height: 100px;
+}
+.logotipo2{
+    height: 100px;
+}
+
+main{
+    background-color: #000005;
+    height: 700px;
+    color: hsl(0, 87%, 49%);
 }
